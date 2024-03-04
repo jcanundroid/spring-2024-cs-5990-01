@@ -108,4 +108,4 @@ u and v are parallel if they are scalar multiples of each other, thus k = -4/3
 
 ## Question 10
 
-See https://github.com/jcanundroid/cs-5590-adm
+See https://github.com/jcanundroid/spring-2024-cs-5990-01
