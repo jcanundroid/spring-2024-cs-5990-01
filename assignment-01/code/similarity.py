@@ -8,10 +8,12 @@
 # -----------------------------------------------------------*/
 
 # Importing some Python libraries
+
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Defining the documents
+
 doc1 = "soccer is my favorite sport"
 doc2 = "I like sports and my favorite one is soccer"
 doc3 = "support soccer at the olympic games"
